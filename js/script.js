@@ -7,7 +7,7 @@ var studente = {
 
 // console.log(studente);
 
-// Stampo con ciclo for tutte le proprietà
+// Stampo con ciclo for tutte i valori delle proprietà
 for (var chiave in studente ) {
   // console.log(studente[chiave]);
 }
